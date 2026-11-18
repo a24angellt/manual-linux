@@ -28,3 +28,7 @@ y el repositorio remoto se encuentra alojado en GitHub
 1. Mas intuitiva 
 2. Mas rapida
 3. Mas acesible
+## Recomendaciones de seguridad
+1. contraseñas robustas
+2. no compartir contraseñas
+3. tener cuidado donde entres
