@@ -15,3 +15,5 @@ Para comprobar la conectividad:
 ```bash
 ping 8.8.8.8
 ```
+systemctl status nombre-servicio
+sudo systemctl restart nombre-servicio
