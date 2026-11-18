@@ -24,3 +24,7 @@ sudo systemctl restart nombre-servicio
 Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub
+## Próximas mejoras
+1. Mas intuitiva 
+2. Mas rapida
+3. Mas acesible
